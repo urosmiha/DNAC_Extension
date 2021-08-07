@@ -37,7 +37,7 @@ DNAC_PUBLIC = {
 }
 
 DNAC_PRIVATE = {
-    "host": "",
+    "host": "198.18.133.101",
     "port": 443,
     "username": "admin",
     "password": "C1sco12345",
